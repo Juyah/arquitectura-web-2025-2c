@@ -99,3 +99,6 @@ Rutas base: `/products/:id/reviews`
 ### Middleware
 
 * `router.param("id", ...)`: Al ser una API anidada, todas las rutas que operan sobre un producto específico utilizan el parámetro `:id`. Se utiliza un middleware de `express.Router` que intercepta todas las rutas que contienen el parámetro `:id`. Este middleware (`productExistsParam`) verifica que el producto exista en el repositorio antes de continuar con el controlador. Si el producto no se encuentra, devuelve automáticamente un error 404.
+
+### API Collection
+Se incluye una colección de Bruno y Postman para facilitar las pruebas de los endpoints. En `listProducts` se tienen los filtros para la búsqueda.

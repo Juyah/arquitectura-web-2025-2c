@@ -23,14 +23,15 @@ export class OfferRepository {
         return this.offers.get(productId).get(id);
     }
 
+    createProductMap(productId) {
+        this.offers.set(productId, new Map());
+    }
+
     update(productId, id, offer) {
         const productOffers = this.offers.get(productId);
         if (!productOffers.has(id)) return null;
         productOffers.set(id, offer);
         return productOffers.get(id);
-        // if (!this.offers.get(productId).has(id)) return null;
-        // this.offers.get(productId).set(id, offer);
-        // return this.offers.get(productId).get(id);
     }
 
     has(productId, id) {
@@ -39,6 +40,10 @@ export class OfferRepository {
 
     delete(productId, id) {
         return this.offers.get(productId).delete(id);
+    }
+
+    deleteProductMap(productId) {
+        return this.offers.delete(productId);
     }
 
     getLastId(productId) {

@@ -23,6 +23,12 @@ export class ReviewRepository {
         return this.reviews.get(productId).get(id);
     }
 
+    createProductMap(productId) {
+        if (!this.reviews.has(productId)) {
+            this.reviews.set(productId, new Map());
+        }
+    }
+
     update(productId, id, review) {
         const productReviews = this.reviews.get(productId);
         if (!productReviews.has(id)) return null;
@@ -36,6 +42,10 @@ export class ReviewRepository {
 
     delete(productId, id) {
         return this.reviews.get(productId).delete(id);
+    }
+
+    deleteProductMap(productId) {
+        return this.reviews.delete(productId);
     }
 
     getLastId(productId) {

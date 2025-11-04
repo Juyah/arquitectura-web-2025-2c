@@ -23,6 +23,12 @@ export class QuestionRepository {
         return this.questions.get(productId).get(id);
     }
 
+    createProductMap(productId) {
+        if (!this.questions.has(productId)) {
+            this.questions.set(productId, new Map());
+        }
+    }
+
     update(productId, id, question) {
         const productQuestions = this.questions.get(productId);
         if (!productQuestions.has(id)) return null;
@@ -36,6 +42,10 @@ export class QuestionRepository {
 
     delete(productId, id) {
         return this.questions.get(productId).delete(id);
+    }
+
+    deleteProductMap(productId) {
+        return this.questions.delete(productId);
     }
 
     getLastId(productId) {

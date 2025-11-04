@@ -1,0 +1,662 @@
+{
+  "name": "API_Arqweb",
+  "version": "1",
+  "items": [
+    {
+      "type": "folder",
+      "name": "Offer",
+      "filename": "Offer",
+      "seq": 7,
+      "root": {
+        "meta": {
+          "name": "Offer",
+          "seq": 7
+        }
+      },
+      "items": [
+        {
+          "type": "http",
+          "name": "createOffer",
+          "filename": "createOffer.bru",
+          "seq": 3,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/offers",
+            "method": "POST",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"seller_name\":\"test\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "deleteOffer",
+          "filename": "deleteOffer.bru",
+          "seq": 5,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/offers/SHOP5",
+            "method": "DELETE",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "json": "{\n  \"test\":\"test2\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "getOffer",
+          "filename": "getOffer.bru",
+          "seq": 2,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/offers/SHOP3",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "listOffers",
+          "filename": "listOffers.bru",
+          "seq": 1,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/offers",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "updateOffer",
+          "filename": "updateOffer.bru",
+          "seq": 4,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/offers/SHOP3",
+            "method": "PATCH",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"seller_name\":\"ah\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Product",
+      "filename": "Product",
+      "seq": 6,
+      "root": {
+        "meta": {
+          "name": "Product",
+          "seq": 6
+        }
+      },
+      "items": [
+        {
+          "type": "http",
+          "name": "createProduct",
+          "filename": "createProduct.bru",
+          "seq": 3,
+          "request": {
+            "url": "http://localhost:3000/products",
+            "method": "POST",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"test\":\"test\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "deleteProduct",
+          "filename": "deleteProduct.bru",
+          "seq": 5,
+          "request": {
+            "url": "http://localhost:3000/products/MLA9",
+            "method": "DELETE",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "json": "{\n  \"test\":\"test2\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "getProduct",
+          "filename": "getProduct.bru",
+          "seq": 2,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "updateProduct",
+          "filename": "updateProduct.bru",
+          "seq": 4,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3",
+            "method": "PATCH",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"description\":\"test2\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "listProducts",
+          "filename": "listProducts.bru",
+          "seq": 1,
+          "request": {
+            "url": "http://localhost:3000/products",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "title",
+                "value": "USB",
+                "type": "query",
+                "enabled": false
+              },
+              {
+                "name": "minPrice",
+                "value": "79999",
+                "type": "query",
+                "enabled": false
+              },
+              {
+                "name": "maxPrice",
+                "value": "34999",
+                "type": "query",
+                "enabled": false
+              },
+              {
+                "name": "minDiscount",
+                "value": "20",
+                "type": "query",
+                "enabled": false
+              },
+              {
+                "name": "freeShipping",
+                "value": "true",
+                "type": "query",
+                "enabled": false
+              },
+              {
+                "name": "hasInstallments",
+                "value": "true",
+                "type": "query",
+                "enabled": false
+              },
+              {
+                "name": "minRating",
+                "value": "4.6",
+                "type": "query",
+                "enabled": false
+              },
+              {
+                "name": "minReviews",
+                "value": "10",
+                "type": "query",
+                "enabled": false
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "This request retrieves a list of users from the JSONPlaceholder API.",
+            "auth": {
+              "mode": "none"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Question",
+      "filename": "Question",
+      "seq": 8,
+      "root": {
+        "meta": {
+          "name": "Question",
+          "seq": 8
+        }
+      },
+      "items": [
+        {
+          "type": "http",
+          "name": "createQuestion",
+          "filename": "createQuestion.bru",
+          "seq": 3,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/questions",
+            "method": "POST",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"username\":\"¿Hay stock?\",\n  \"question\": \"hola\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "deleteQuestion",
+          "filename": "deleteQuestion.bru",
+          "seq": 5,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/questions/Q12",
+            "method": "DELETE",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "json": "{\n  \"test\":\"test2\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "getQuestion",
+          "filename": "getQuestion.bru",
+          "seq": 2,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/questions/Q12",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "listQuestions",
+          "filename": "listQuestions.bru",
+          "seq": 1,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/questions",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "updateQuestion",
+          "filename": "updateQuestion.bru",
+          "seq": 4,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/questions/Q12",
+            "method": "PATCH",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"answer\":{\n    \"text\":\"ah\"\n  }\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Review",
+      "filename": "Review",
+      "seq": 9,
+      "root": {
+        "meta": {
+          "name": "Review",
+          "seq": 9
+        }
+      },
+      "items": [
+        {
+          "type": "http",
+          "name": "createReview",
+          "filename": "createReview.bru",
+          "seq": 3,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/reviews",
+            "method": "POST",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"username\": \"test\",\n  \"rating\": 4.5,\n  \"comment\": \"test2\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "deleteReview",
+          "filename": "deleteReview.bru",
+          "seq": 5,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/reviews/R47",
+            "method": "DELETE",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "json": "{\n  \"test\":\"test2\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "getReview",
+          "filename": "getReview.bru",
+          "seq": 2,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/reviews/R47",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "listReviews",
+          "filename": "listReviews.bru",
+          "seq": 1,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/reviews",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "updateReview",
+          "filename": "updateReview.bru",
+          "seq": 4,
+          "request": {
+            "url": "http://localhost:3000/products/MLA3/reviews/R47",
+            "method": "PATCH",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "json",
+              "json": "{\n  \"rating\": 3,\n  \"comment\": \"Bueno, pero mejorable\"\n}",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "environments": [],
+  "root": {
+    "request": {
+      "auth": {
+        "mode": "none"
+      }
+    }
+  },
+  "brunoConfig": {
+    "version": "1",
+    "name": "API_Arqweb",
+    "type": "collection",
+    "ignore": [
+      "node_modules",
+      ".git"
+    ],
+    "size": 0.0015439987182617188,
+    "filesCount": 9
+  }
+}
