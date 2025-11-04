@@ -1,0 +1,20 @@
+{
+  "name": "arquitectura-web",
+  "version": "1.0.0",
+  "description": "TP de la materia de arquitectura web que simula el obtener productos de una pagina de e-commerce",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Juan Ignacio Yarbuh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

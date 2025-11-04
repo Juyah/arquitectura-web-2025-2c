@@ -1,0 +1,210 @@
+[
+  {
+    "id": "MLA1",
+    "title": "Monitor 27\" 4K IPS ProVision PV27U",
+    "pictures": [
+      "https://images.example.com/pv27u_1.jpg",
+      "https://images.example.com/pv27u_2.jpg"
+    ],
+    "description": "Monitor 4K de 27 pulgadas con panel IPS y HDR10 ideal para edición y home office.",
+    "attributes": [
+      { "name": "Marca", "value": "ProVision" },
+      { "name": "Modelo", "value": "PV27U" },
+      { "name": "Resolución", "value": "3840x2160" },
+      { "name": "Frecuencia", "value": "60 Hz" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP1",
+      "seller_name": "TecnoStore Oficial",
+      "stock": 23,
+      "condition": "new",
+      "price": 259999.99,
+      "discount_percentage": 10,
+      "free_shipping": true,
+      "installments": 12
+    },
+    "review_summary": { "average_rating": 4.6, "total_reviews": 12 }
+  },
+  {
+    "id": "MLA2",
+    "title": "Teclado Mecánico RGB KeyMaster K98",
+    "pictures": [
+      "https://images.example.com/k98_1.jpg",
+      "https://images.example.com/k98_2.jpg"
+    ],
+    "description": "Teclado mecánico 98% con switches hot‑swap y retroiluminación RGB por tecla.",
+    "attributes": [
+      { "name": "Marca", "value": "KeyMaster" },
+      { "name": "Modelo", "value": "K98" },
+      { "name": "Switch", "value": "Gateron Brown" },
+      { "name": "Conectividad", "value": "USB-C / Bluetooth" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP2",
+      "seller_name": "OfiMarket",
+      "stock": 40,
+      "condition": "new",
+      "price": 79999.0,
+      "discount_percentage": 15,
+      "free_shipping": true,
+      "installments": 6
+    },
+    "review_summary": { "average_rating": 4.4, "total_reviews": 10 }
+  },
+  {
+    "id": "MLA3",
+    "title": "Mouse Inalámbrico Ergonómico ErgoMouse EM2",
+    "pictures": [
+      "https://images.example.com/em2_1.jpg",
+      "https://images.example.com/em2_2.jpg"
+    ],
+    "description": "Mouse vertical ergonómico con batería recargable y 3 niveles de DPI.",
+    "attributes": [
+      { "name": "Marca", "value": "ErgoMouse" },
+      { "name": "Modelo", "value": "EM2" },
+      { "name": "DPI", "value": "800/1600/2400" },
+      { "name": "Conectividad", "value": "Bluetooth / 2.4GHz" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP3",
+      "seller_name": "Casa Digital",
+      "stock": 60,
+      "condition": "new",
+      "price": 22999.0,
+      "discount_percentage": 5,
+      "free_shipping": false,
+      "installments": 3
+    },
+    "review_summary": { "average_rating": 4.2, "total_reviews": 8 }
+  },
+  {
+    "id": "MLA4",
+    "title": "Auriculares Inalámbricos QuietSound QX100",
+    "pictures": [
+      "https://images.example.com/qx100_1.jpg",
+      "https://images.example.com/qx100_2.jpg"
+    ],
+    "description": "Auriculares over‑ear con cancelación activa de ruido y hasta 35 h de batería.",
+    "attributes": [
+      { "name": "Marca", "value": "QuietSound" },
+      { "name": "Modelo", "value": "QX100" },
+      { "name": "Tecnología", "value": "ANC" },
+      { "name": "Autonomía", "value": "35 h" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP4",
+      "seller_name": "Pro Gadgets",
+      "stock": 28,
+      "condition": "new",
+      "price": 139999.0,
+      "discount_percentage": 20,
+      "free_shipping": true,
+      "installments": 12
+    },
+    "review_summary": { "average_rating": 4.7, "total_reviews": 14 }
+  },
+  {
+    "id": "MLA5",
+    "title": "Cámara Web 1080p StreamCam SC1080",
+    "pictures": [
+      "https://images.example.com/sc1080_1.jpg",
+      "https://images.example.com/sc1080_2.jpg"
+    ],
+    "description": "Webcam Full HD con autofocus y obturador de privacidad para videollamadas nítidas.",
+    "attributes": [
+      { "name": "Marca", "value": "StreamCam" },
+      { "name": "Modelo", "value": "SC1080" },
+      { "name": "Resolución", "value": "1080p" },
+      { "name": "Micrófono", "value": "Doble MEMS" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP5",
+      "seller_name": "ElectroMundo",
+      "stock": 75,
+      "condition": "new",
+      "price": 34999.0,
+      "discount_percentage": 0,
+      "free_shipping": false,
+      "installments": 6
+    },
+    "review_summary": { "average_rating": 4.1, "total_reviews": 9 }
+  },
+  {
+    "id": "MLA6",
+    "title": "Micrófono USB Condensador Podcaster One M1",
+    "pictures": [
+      "https://images.example.com/m1_1.jpg",
+      "https://images.example.com/m1_2.jpg"
+    ],
+    "description": "Micrófono USB cardioide con filtro anti‑pop y brazo articulado para streaming.",
+    "attributes": [
+      { "name": "Marca", "value": "Podcaster One" },
+      { "name": "Modelo", "value": "M1" },
+      { "name": "Patrón Polar", "value": "Cardioide" },
+      { "name": "Conectividad", "value": "USB-A/USB-C" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP6",
+      "seller_name": "AudioPro AR",
+      "stock": 32,
+      "condition": "new",
+      "price": 69999.0,
+      "discount_percentage": 10,
+      "free_shipping": true,
+      "installments": 12
+    },
+    "review_summary": { "average_rating": 4.5, "total_reviews": 11 }
+  },
+  {
+    "id": "MLA7",
+    "title": "Luz de Anillo LED 12\" HomeStudio RL12",
+    "pictures": [
+      "https://images.example.com/rl12_1.jpg",
+      "https://images.example.com/rl12_2.jpg"
+    ],
+    "description": "Ring light de 12 pulgadas con control remoto y 3 temperaturas de color.",
+    "attributes": [
+      { "name": "Marca", "value": "HomeStudio" },
+      { "name": "Modelo", "value": "RL12" },
+      { "name": "Temperatura", "value": "3000K-6500K" },
+      { "name": "Alimentación", "value": "USB" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP7",
+      "seller_name": "MegaOfertas",
+      "stock": 120,
+      "condition": "new",
+      "price": 15999.0,
+      "discount_percentage": 25,
+      "free_shipping": false,
+      "installments": 3
+    },
+    "review_summary": { "average_rating": 3.9, "total_reviews": 7 }
+  },
+  {
+    "id": "MLA8",
+    "title": "Docking Station USB‑C 12‑en‑1 UltraDock UD12",
+    "pictures": [
+      "https://images.example.com/ud12_1.jpg",
+      "https://images.example.com/ud12_2.jpg"
+    ],
+    "description": "Base USB‑C con HDMI 4K, Ethernet, lector SD y PD 100W.",
+    "attributes": [
+      { "name": "Marca", "value": "UltraDock" },
+      { "name": "Modelo", "value": "UD12" },
+      { "name": "Puertos", "value": "12" },
+      { "name": "Power Delivery", "value": "100W" }
+    ],
+    "main_offer": {
+      "seller_id": "SHOP8",
+      "seller_name": "Distribuidor XYZ",
+      "stock": 45,
+      "condition": "new",
+      "price": 99999.0,
+      "discount_percentage": 12,
+      "free_shipping": true,
+      "installments": 12
+    },
+    "review_summary": { "average_rating": 4.3, "total_reviews": 8 }
+  }
+]

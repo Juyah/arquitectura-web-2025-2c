@@ -1,0 +1,211 @@
+[
+  {
+    "id": "SHOP17",
+    "productId": "MLA1",
+    "seller_name": "TecnoStore Oficial",
+    "stock": 23,
+    "condition": "new",
+    "price": 259999.99,
+    "discount_percentage": 10,
+    "free_shipping": true,
+    "installments": 12
+  },
+  {
+    "id": "SHOP18",
+    "productId": "MLA1",
+    "seller_name": "Casa Digital",
+    "stock": 12,
+    "condition": "new",
+    "price": 269999.99,
+    "discount_percentage": 12,
+    "free_shipping": true,
+    "installments": 12
+  },
+  {
+    "id": "SHOP19",
+    "productId": "MLA1",
+    "seller_name": "Pro Gadgets",
+    "stock": 5,
+    "condition": "used",
+    "price": 229999.5,
+    "discount_percentage": 0,
+    "free_shipping": false,
+    "installments": 6
+  },
+  {
+    "id": "SHOP14",
+    "productId": "MLA2",
+    "seller_name": "OfiMarket",
+    "stock": 40,
+    "condition": "new",
+    "price": 79999.0,
+    "discount_percentage": 15,
+    "free_shipping": true,
+    "installments": 6
+  },
+  {
+    "id": "SHOP15",
+    "productId": "MLA2",
+    "seller_name": "KeyBoards AR",
+    "stock": 18,
+    "condition": "new",
+    "price": 82999.0,
+    "discount_percentage": 10,
+    "free_shipping": true,
+    "installments": 12
+  },
+  {
+    "id": "SHOP16",
+    "productId": "MLA2",
+    "seller_name": "ElectroMundo",
+    "stock": 25,
+    "condition": "new",
+    "price": 75999.0,
+    "discount_percentage": 5,
+    "free_shipping": false,
+    "installments": 3
+  },
+  {
+    "id": "SHOP3",
+    "productId": "MLA3",
+    "seller_name": "Casa Digital",
+    "stock": 60,
+    "condition": "new",
+    "price": 22999.0,
+    "discount_percentage": 5,
+    "free_shipping": false,
+    "installments": 3
+  },
+  {
+    "id": "SHOP4",
+    "productId": "MLA3",
+    "seller_name": "Ergo Store",
+    "stock": 22,
+    "condition": "new",
+    "price": 24999.0,
+    "discount_percentage": 10,
+    "free_shipping": true,
+    "installments": 6
+  },
+  {
+    "id": "SHOP5",
+    "productId": "MLA4",
+    "seller_name": "Pro Gadgets",
+    "stock": 28,
+    "condition": "new",
+    "price": 139999.0,
+    "discount_percentage": 20,
+    "free_shipping": true,
+    "installments": 12
+  },
+  {
+    "id": "SHOP6",
+    "productId": "MLA4",
+    "seller_name": "AudioPro AR",
+    "stock": 10,
+    "condition": "new",
+    "price": 149999.0,
+    "discount_percentage": 15,
+    "free_shipping": true,
+    "installments": 6
+  },
+  {
+    "id": "SHOP7",
+    "productId": "MLA4",
+    "seller_name": "ElectroMundo",
+    "stock": 6,
+    "condition": "used",
+    "price": 109999.0,
+    "discount_percentage": 0,
+    "free_shipping": false,
+    "installments": 3
+  },
+  {
+    "id": "SHOP10",
+    "productId": "MLA5",
+    "seller_name": "ElectroMundo",
+    "stock": 75,
+    "condition": "new",
+    "price": 34999.0,
+    "discount_percentage": 0,
+    "free_shipping": false,
+    "installments": 6
+  },
+  {
+    "id": "SHOP11",
+    "productId": "MLA5",
+    "seller_name": "TecnoStore Oficial",
+    "stock": 20,
+    "condition": "new",
+    "price": 37999.0,
+    "discount_percentage": 10,
+    "free_shipping": true,
+    "installments": 12
+  },
+  {
+    "id": "SHOP12",
+    "productId": "MLA6",
+    "seller_name": "AudioPro AR",
+    "stock": 32,
+    "condition": "new",
+    "price": 69999.0,
+    "discount_percentage": 10,
+    "free_shipping": true,
+    "installments": 12
+  },
+  {
+    "id": "SHOP13",
+    "productId": "MLA6",
+    "seller_name": "Pro Gadgets",
+    "stock": 9,
+    "condition": "new",
+    "price": 72999.0,
+    "discount_percentage": 12,
+    "free_shipping": true,
+    "installments": 6
+  },
+  {
+    "id": "SHOP1",
+    "productId": "MLA7",
+    "seller_name": "MegaOfertas",
+    "stock": 120,
+    "condition": "new",
+    "price": 15999.0,
+    "discount_percentage": 25,
+    "free_shipping": false,
+    "installments": 3
+  },
+  {
+    "id": "SHOP2",
+    "productId": "MLA7",
+    "seller_name": "FotoPro",
+    "stock": 35,
+    "condition": "new",
+    "price": 18999.0,
+    "discount_percentage": 10,
+    "free_shipping": true,
+    "installments": 6
+  },
+  {
+    "id": "SHOP8",
+    "productId": "MLA8",
+    "seller_name": "Distribuidor XYZ",
+    "stock": 45,
+    "condition": "new",
+    "price": 99999.0,
+    "discount_percentage": 12,
+    "free_shipping": true,
+    "installments": 12
+  },
+  {
+    "id": "SHOP9",
+    "productId": "MLA8",
+    "seller_name": "TecnoStore Oficial",
+    "stock": 14,
+    "condition": "new",
+    "price": 104999.0,
+    "discount_percentage": 10,
+    "free_shipping": true,
+    "installments": 6
+  }
+]

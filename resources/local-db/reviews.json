@@ -1,0 +1,634 @@
+[
+  {
+    "id": "R35",
+    "productId": "MLA1",
+    "username": "MarianaR",
+    "rating": 5,
+    "comment": "Excelente calidad de imagen, ideal para diseño.",
+    "date": "2025-06-21"
+  },
+  {
+    "id": "R36",
+    "productId": "MLA1",
+    "username": "Jorge84",
+    "rating": 4,
+    "comment": "Colores muy buenos, el HDR podría ser mejor.",
+    "date": "2025-06-18"
+  },
+  {
+    "id": "R37",
+    "productId": "MLA1",
+    "username": "SofiTech",
+    "rating": 5,
+    "comment": "Se nota sólido y sin fugas de luz.",
+    "date": "2025-06-10"
+  },
+  {
+    "id": "R38",
+    "productId": "MLA1",
+    "username": "LucianoM",
+    "rating": 4,
+    "comment": "Viene bien calibrado de fábrica.",
+    "date": "2025-05-30"
+  },
+  {
+    "id": "R39",
+    "productId": "MLA1",
+    "username": "Anita",
+    "rating": 5,
+    "comment": "Texto súper nítido para trabajar.",
+    "date": "2025-05-28"
+  },
+  {
+    "id": "R40",
+    "productId": "MLA1",
+    "username": "Natalia",
+    "rating": 4,
+    "comment": "Base estable, me gustaría más ajuste en altura.",
+    "date": "2025-05-20"
+  },
+  {
+    "id": "R41",
+    "productId": "MLA1",
+    "username": "Carlos",
+    "rating": 4,
+    "comment": "Buen precio por un 4K de esta calidad.",
+    "date": "2025-05-08"
+  },
+  {
+    "id": "R42",
+    "productId": "MLA1",
+    "username": "Ernesto",
+    "rating": 5,
+    "comment": "Perfecto para edición de fotos.",
+    "date": "2025-04-29"
+  },
+  {
+    "id": "R43",
+    "productId": "MLA1",
+    "username": "Vane",
+    "rating": 4,
+    "comment": "El cable HDMI es corto, pero el monitor es excelente.",
+    "date": "2025-04-22"
+  },
+  {
+    "id": "R44",
+    "productId": "MLA1",
+    "username": "Pablo",
+    "rating": 5,
+    "comment": "Lo uso con Mac y va perfecto.",
+    "date": "2025-04-15"
+  },
+  {
+    "id": "R45",
+    "productId": "MLA1",
+    "username": "Gonza",
+    "rating": 4,
+    "comment": "Buen HDR para contenido, no tanto para juegos.",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "R46",
+    "productId": "MLA1",
+    "username": "Clara",
+    "rating": 5,
+    "comment": "Armado simple y sin píxeles muertos.",
+    "date": "2025-03-30"
+  },
+  {
+    "id": "R1",
+    "productId": "MLA2",
+    "username": "LauRG",
+    "rating": 5,
+    "comment": "Excelente escritura y muy cómodo para escribir todo el día.",
+    "date": "2025-06-22"
+  },
+  {
+    "id": "R2",
+    "productId": "MLA2",
+    "username": "Fede",
+    "rating": 4,
+    "comment": "Los switches brown son silenciosos y precisos.",
+    "date": "2025-06-20"
+  },
+  {
+    "id": "R3",
+    "productId": "MLA2",
+    "username": "Gaby",
+    "rating": 4,
+    "comment": "Buen build, faltan repuestos de keycaps.",
+    "date": "2025-06-12"
+  },
+  {
+    "id": "R4",
+    "productId": "MLA2",
+    "username": "Maxi",
+    "rating": 5,
+    "comment": "La batería dura muchísimo en BT.",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "R5",
+    "productId": "MLA2",
+    "username": "Romy",
+    "rating": 4,
+    "comment": "Perfil bajo cómodo, iluminación linda.",
+    "date": "2025-06-05"
+  },
+  {
+    "id": "R6",
+    "productId": "MLA2",
+    "username": "Nico",
+    "rating": 3,
+    "comment": "El software es básico, pero cumple.",
+    "date": "2025-05-28"
+  },
+  {
+    "id": "R7",
+    "productId": "MLA2",
+    "username": "Carla",
+    "rating": 5,
+    "comment": "Ideal para home office y gaming ocasional.",
+    "date": "2025-05-22"
+  },
+  {
+    "id": "R8",
+    "productId": "MLA2",
+    "username": "Juan",
+    "rating": 4,
+    "comment": "Layout 98% muy práctico.",
+    "date": "2025-05-16"
+  },
+  {
+    "id": "R9",
+    "productId": "MLA2",
+    "username": "Patri",
+    "rating": 4,
+    "comment": "Se conecta rápido a la notebook.",
+    "date": "2025-05-10"
+  },
+  {
+    "id": "R10",
+    "productId": "MLA2",
+    "username": "Santi",
+    "rating": 5,
+    "comment": "Los estabilizadores no hacen ruido.",
+    "date": "2025-05-02"
+  },
+  {
+    "id": "R47",
+    "productId": "MLA3",
+    "username": "AgusV",
+    "rating": 5,
+    "comment": "Me mejoró el dolor de muñeca, súper cómodo.",
+    "date": "2025-06-23"
+  },
+  {
+    "id": "R48",
+    "productId": "MLA3",
+    "username": "Rene",
+    "rating": 4,
+    "comment": "La batería dura varios días.",
+    "date": "2025-06-19"
+  },
+  {
+    "id": "R49",
+    "productId": "MLA3",
+    "username": "Ema",
+    "rating": 4,
+    "comment": "El sensor es preciso para oficina.",
+    "date": "2025-06-11"
+  },
+  {
+    "id": "R50",
+    "productId": "MLA3",
+    "username": "Tom",
+    "rating": 3,
+    "comment": "El plástico se siente común, pero cumple.",
+    "date": "2025-06-06"
+  },
+  {
+    "id": "R51",
+    "productId": "MLA3",
+    "username": "Sole",
+    "rating": 5,
+    "comment": "Muy ergonómico, mano descansa bien.",
+    "date": "2025-06-01"
+  },
+  {
+    "id": "R52",
+    "productId": "MLA3",
+    "username": "Martin",
+    "rating": 4,
+    "comment": "Conexión estable por 2.4GHz.",
+    "date": "2025-05-25"
+  },
+  {
+    "id": "R53",
+    "productId": "MLA3",
+    "username": "Vale",
+    "rating": 4,
+    "comment": "Buen tamaño para manos medianas.",
+    "date": "2025-05-18"
+  },
+  {
+    "id": "R54",
+    "productId": "MLA3",
+    "username": "Dami",
+    "rating": 5,
+    "comment": "Excelente relación precio/calidad.",
+    "date": "2025-05-10"
+  },
+  {
+    "id": "R66",
+    "productId": "MLA4",
+    "username": "Seba",
+    "rating": 5,
+    "comment": "La ANC sorprende, muy buena.",
+    "date": "2025-06-22"
+  },
+  {
+    "id": "R67",
+    "productId": "MLA4",
+    "username": "Estefi",
+    "rating": 5,
+    "comment": "Comodísimos y suenan bárbaro.",
+    "date": "2025-06-20"
+  },
+  {
+    "id": "R68",
+    "productId": "MLA4",
+    "username": "Ramon",
+    "rating": 4,
+    "comment": "El micrófono para llamadas es correcto.",
+    "date": "2025-06-18"
+  },
+  {
+    "id": "R69",
+    "productId": "MLA4",
+    "username": "Nadia",
+    "rating": 5,
+    "comment": "Batería real de más de 30 horas.",
+    "date": "2025-06-12"
+  },
+  {
+    "id": "R70",
+    "productId": "MLA4",
+    "username": "Bruno",
+    "rating": 4,
+    "comment": "El estuche es un poco grande.",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "R71",
+    "productId": "MLA4",
+    "username": "Caro",
+    "rating": 5,
+    "comment": "Se conectan a dos dispositivos a la vez.",
+    "date": "2025-06-06"
+  },
+  {
+    "id": "R72",
+    "productId": "MLA4",
+    "username": "Guille",
+    "rating": 5,
+    "comment": "Muy buenos graves y medios claros.",
+    "date": "2025-06-01"
+  },
+  {
+    "id": "R73",
+    "productId": "MLA4",
+    "username": "Sofi",
+    "rating": 4,
+    "comment": "Al principio aprietan un poco, luego ceden.",
+    "date": "2025-05-27"
+  },
+  {
+    "id": "R74",
+    "productId": "MLA4",
+    "username": "Lucho",
+    "rating": 5,
+    "comment": "Excelente para trabajar en espacios ruidosos.",
+    "date": "2025-05-21"
+  },
+  {
+    "id": "R75",
+    "productId": "MLA4",
+    "username": "Pau",
+    "rating": 5,
+    "comment": "Calidad de construcción premium.",
+    "date": "2025-05-15"
+  },
+  {
+    "id": "R76",
+    "productId": "MLA4",
+    "username": "Gonzalo",
+    "rating": 4,
+    "comment": "El app podría tener más ecualizadores.",
+    "date": "2025-05-10"
+  },
+  {
+    "id": "R77",
+    "productId": "MLA4",
+    "username": "Noe",
+    "rating": 5,
+    "comment": "Viajé y cancelan mucho el ruido del avión.",
+    "date": "2025-05-04"
+  },
+  {
+    "id": "R78",
+    "productId": "MLA4",
+    "username": "Meli",
+    "rating": 5,
+    "comment": "Mejor compra del año.",
+    "date": "2025-04-28"
+  },
+  {
+    "id": "R79",
+    "productId": "MLA4",
+    "username": "Dario",
+    "rating": 4,
+    "comment": "Buen alcance de Bluetooth.",
+    "date": "2025-04-20"
+  },
+  {
+    "id": "R26",
+    "productId": "MLA5",
+    "username": "Lili",
+    "rating": 4,
+    "comment": "Buena imagen y enfoque rápido.",
+    "date": "2025-06-21"
+  },
+  {
+    "id": "R27",
+    "productId": "MLA5",
+    "username": "Rodri",
+    "rating": 5,
+    "comment": "El micrófono integrado zafa bien.",
+    "date": "2025-06-17"
+  },
+  {
+    "id": "R28",
+    "productId": "MLA5",
+    "username": "Euge",
+    "rating": 4,
+    "comment": "Trae tapa de privacidad, buen detalle.",
+    "date": "2025-06-13"
+  },
+  {
+    "id": "R29",
+    "productId": "MLA5",
+    "username": "Tato",
+    "rating": 3,
+    "comment": "Con poca luz se ve algo ruidosa.",
+    "date": "2025-06-08"
+  },
+  {
+    "id": "R30",
+    "productId": "MLA5",
+    "username": "Nai",
+    "rating": 5,
+    "comment": "La uso para Zoom y va perfecto.",
+    "date": "2025-06-01"
+  },
+  {
+    "id": "R31",
+    "productId": "MLA5",
+    "username": "Ceci",
+    "rating": 4,
+    "comment": "Cable largo, fácil de instalar.",
+    "date": "2025-05-27"
+  },
+  {
+    "id": "R32",
+    "productId": "MLA5",
+    "username": "Brian",
+    "rating": 4,
+    "comment": "Buena relación precio/calidad.",
+    "date": "2025-05-20"
+  },
+  {
+    "id": "R33",
+    "productId": "MLA5",
+    "username": "Maru",
+    "rating": 5,
+    "comment": "Autofocus muy rápido.",
+    "date": "2025-05-14"
+  },
+  {
+    "id": "R34",
+    "productId": "MLA5",
+    "username": "Delfi",
+    "rating": 3,
+    "comment": "El clip podría ser más firme.",
+    "date": "2025-05-06"
+  },
+  {
+    "id": "R55",
+    "productId": "MLA6",
+    "username": "Rafa",
+    "rating": 5,
+    "comment": "Sonido claro y cálido, ideal para podcasts.",
+    "date": "2025-06-23"
+  },
+  {
+    "id": "R56",
+    "productId": "MLA6",
+    "username": "Majo",
+    "rating": 5,
+    "comment": "Incluye todo lo necesario para montar.",
+    "date": "2025-06-21"
+  },
+  {
+    "id": "R57",
+    "productId": "MLA6",
+    "username": "Diego",
+    "rating": 4,
+    "comment": "Capta poco ruido ambiente, bien.",
+    "date": "2025-06-18"
+  },
+  {
+    "id": "R58",
+    "productId": "MLA6",
+    "username": "Gina",
+    "rating": 5,
+    "comment": "Mejoró mucho mis videollamadas.",
+    "date": "2025-06-12"
+  },
+  {
+    "id": "R59",
+    "productId": "MLA6",
+    "username": "Leo",
+    "rating": 4,
+    "comment": "El brazo podría ser más rígido.",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "R60",
+    "productId": "MLA6",
+    "username": "Cintia",
+    "rating": 5,
+    "comment": "Filtro anti-pop efectivo.",
+    "date": "2025-06-04"
+  },
+  {
+    "id": "R61",
+    "productId": "MLA6",
+    "username": "Uri",
+    "rating": 4,
+    "comment": "Buen volumen de salida.",
+    "date": "2025-05-30"
+  },
+  {
+    "id": "R62",
+    "productId": "MLA6",
+    "username": "Paula",
+    "rating": 5,
+    "comment": "Plug & play real en Windows y Mac.",
+    "date": "2025-05-25"
+  },
+  {
+    "id": "R63",
+    "productId": "MLA6",
+    "username": "Naza",
+    "rating": 4,
+    "comment": "Cable largo y de buena calidad.",
+    "date": "2025-05-18"
+  },
+  {
+    "id": "R64",
+    "productId": "MLA6",
+    "username": "Rocio",
+    "rating": 5,
+    "comment": "Excelente para streams.",
+    "date": "2025-05-10"
+  },
+  {
+    "id": "R65",
+    "productId": "MLA6",
+    "username": "Facu",
+    "rating": 4,
+    "comment": "Trae estuche, buen extra.",
+    "date": "2025-05-03"
+  },
+  {
+    "id": "R19",
+    "productId": "MLA7",
+    "username": "Caro",
+    "rating": 4,
+    "comment": "Ilumina bien para videollamadas.",
+    "date": "2025-06-20"
+  },
+  {
+    "id": "R20",
+    "productId": "MLA7",
+    "username": "Alan",
+    "rating": 4,
+    "comment": "Buen control remoto.",
+    "date": "2025-06-16"
+  },
+  {
+    "id": "R21",
+    "productId": "MLA7",
+    "username": "Eri",
+    "rating": 3,
+    "comment": "El trípode es básico pero sirve.",
+    "date": "2025-06-12"
+  },
+  {
+    "id": "R22",
+    "productId": "MLA7",
+    "username": "Nora",
+    "rating": 5,
+    "comment": "Mejoró mucho mis fotos de producto.",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "R23",
+    "productId": "MLA7",
+    "username": "Dante",
+    "rating": 4,
+    "comment": "Los tonos de color ayudan mucho.",
+    "date": "2025-06-02"
+  },
+  {
+    "id": "R24",
+    "productId": "MLA7",
+    "username": "Sil",
+    "rating": 3,
+    "comment": "El cable USB es corto.",
+    "date": "2025-05-28"
+  },
+  {
+    "id": "R25",
+    "productId": "MLA7",
+    "username": "Vale",
+    "rating": 4,
+    "comment": "Por el precio está muy bien.",
+    "date": "2025-05-22"
+  },
+  {
+    "id": "R11",
+    "productId": "MLA8",
+    "username": "Pili",
+    "rating": 5,
+    "comment": "Todos los puertos funcionan perfecto.",
+    "date": "2025-06-23"
+  },
+  {
+    "id": "R12",
+    "productId": "MLA8",
+    "username": "Ian",
+    "rating": 4,
+    "comment": "El HDMI saca 4K a 60, comprobado.",
+    "date": "2025-06-20"
+  },
+  {
+    "id": "R13",
+    "productId": "MLA8",
+    "username": "Noel",
+    "rating": 4,
+    "comment": "Se calienta un poco con carga 100W.",
+    "date": "2025-06-16"
+  },
+  {
+    "id": "R14",
+    "productId": "MLA8",
+    "username": "Feli",
+    "rating": 5,
+    "comment": "Ideal para el NUC y una sola conexión.",
+    "date": "2025-06-11"
+  },
+  {
+    "id": "R15",
+    "productId": "MLA8",
+    "username": "Joan",
+    "rating": 4,
+    "comment": "El lector SD es rápido.",
+    "date": "2025-06-07"
+  },
+  {
+    "id": "R16",
+    "productId": "MLA8",
+    "username": "Tere",
+    "rating": 4,
+    "comment": "Cable USB-C algo corto.",
+    "date": "2025-06-02"
+  },
+  {
+    "id": "R17",
+    "productId": "MLA8",
+    "username": "Pedro",
+    "rating": 5,
+    "comment": "Ethernet gigabit estable.",
+    "date": "2025-05-27"
+  },
+  {
+    "id": "R18",
+    "productId": "MLA8",
+    "username": "Mika",
+    "rating": 5,
+    "comment": "Excelente hub, súper completo.",
+    "date": "2025-05-19"
+  }
+]

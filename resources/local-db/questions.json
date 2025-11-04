@@ -1,0 +1,178 @@
+[
+  {
+    "id": "Q3",
+    "productId": "MLA1",
+    "question": "¿Trae cable DisplayPort en la caja?",
+    "username": "Nacho",
+    "date": "2025-06-15",
+    "answer": {
+      "text": "Incluye HDMI. El DisplayPort se vende por separado.",
+      "date": "2025-06-16"
+    }
+  },
+  {
+    "id": "Q4",
+    "productId": "MLA1",
+    "question": "¿Es compatible con VESA 100x100?",
+    "username": "Guille",
+    "date": "2025-06-12",
+    "answer": {
+      "text": "Sí, tiene montaje VESA 100x100.",
+      "date": "2025-06-12"
+    }
+  },
+  {
+    "id": "Q5",
+    "productId": "MLA1",
+    "question": "¿Sirve para PS5 a 120 Hz?",
+    "username": "Leo",
+    "date": "2025-05-29",
+    "answer": {
+      "text": "Funciona a 60 Hz en 4K. Para 120 Hz necesitarías 1080p/1440p.",
+      "date": "2025-05-29"
+    }
+  },
+  {
+    "id": "Q10",
+    "productId": "MLA2",
+    "question": "¿Se pueden cambiar los switches?",
+    "username": "Leo",
+    "date": "2025-06-18",
+    "answer": {
+      "text": "Sí, es hot-swap compatible con Gateron/Kailh.",
+      "date": "2025-06-18"
+    }
+  },
+  {
+    "id": "Q11",
+    "productId": "MLA2",
+    "question": "¿Tiene distribución ISO?",
+    "username": "Jesica",
+    "date": "2025-06-10",
+    "answer": {
+      "text": "Viene en ANSI. Tenemos versión ISO en otro listado.",
+      "date": "2025-06-11"
+    }
+  },
+  {
+    "id": "Q12",
+    "productId": "MLA3",
+    "question": "¿Sirve para manos grandes?",
+    "username": "Pato",
+    "date": "2025-06-14",
+    "answer": {
+      "text": "Recomendado hasta talla L. Para XL sugerimos el modelo EM3.",
+      "date": "2025-06-14"
+    }
+  },
+  {
+    "id": "Q1",
+    "productId": "MLA4",
+    "question": "¿Se pueden usar por cable?",
+    "username": "Rita",
+    "date": "2025-06-16",
+    "answer": {
+      "text": "Sí, incluyen cable de 3.5mm para uso pasivo.",
+      "date": "2025-06-16"
+    }
+  },
+  {
+    "id": "Q2",
+    "productId": "MLA4",
+    "question": "¿Tienen modo transparencia?",
+    "username": "Matias",
+    "date": "2025-06-14",
+    "answer": {
+      "text": "Sí, cuenta con modo ambiente ajustable.",
+      "date": "2025-06-14"
+    }
+  },
+  {
+    "id": "Q13",
+    "productId": "MLA5",
+    "question": "¿Funciona en Linux?",
+    "username": "Lucho",
+    "date": "2025-06-12",
+    "answer": {
+      "text": "Sí, es plug & play en Linux con drivers UVC.",
+      "date": "2025-06-12"
+    }
+  },
+  {
+    "id": "Q14",
+    "productId": "MLA5",
+    "question": "¿Se puede montar en trípode?",
+    "username": "Gonza",
+    "date": "2025-06-09",
+    "answer": {
+      "text": "Tiene rosca estándar 1/4\" en la base.",
+      "date": "2025-06-09"
+    }
+  },
+  {
+    "id": "Q6",
+    "productId": "MLA6",
+    "question": "¿Viene con filtro anti-pop?",
+    "username": "Lau",
+    "date": "2025-06-19",
+    "answer": {
+      "text": "Sí, incluye filtro anti-pop y shock mount.",
+      "date": "2025-06-19"
+    }
+  },
+  {
+    "id": "Q7",
+    "productId": "MLA6",
+    "question": "¿Funciona en PS5?",
+    "username": "Maty",
+    "date": "2025-06-15",
+    "answer": {
+      "text": "Funciona como micrófono USB estándar.",
+      "date": "2025-06-15"
+    }
+  },
+  {
+    "id": "Q8",
+    "productId": "MLA7",
+    "question": "¿El trípode llega a 1.5m?",
+    "username": "Marcos",
+    "date": "2025-06-15",
+    "answer": {
+      "text": "La altura máxima es 1.3 m.",
+      "date": "2025-06-15"
+    }
+  },
+  {
+    "id": "Q9",
+    "productId": "MLA7",
+    "question": "¿Incluye control de temperatura?",
+    "username": "Cami",
+    "date": "2025-06-13",
+    "answer": {
+      "text": "Sí, cálido, neutro y frío.",
+      "date": "2025-06-13"
+    }
+  },
+  {
+    "id": "Q15",
+    "productId": "MLA8",
+    "question": "¿Trae fuente de 100W?",
+    "username": "Rox",
+    "date": "2025-06-18",
+    "answer": {
+      "text": "No incluye cargador. Requiere uno USB-C PD 100W para máxima potencia.",
+      "date": "2025-06-18"
+    }
+  },
+  {
+    "id": "Q16",
+    "productId": "MLA8",
+    "question": "¿Es compatible con M1?",
+    "username": "Juanjo",
+    "date": "2025-06-12",
+    "answer": {
+      "text": "Sí, funciona con Mac M1/M2 y Windows.",
+      "date": "2025-06-12"
+    }
+  }
+]
